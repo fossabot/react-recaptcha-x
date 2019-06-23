@@ -171,7 +171,7 @@ It is responsible for injecting the required Javascript Script Tag, CSS Style Ta
 
 ### examples prerequisites & setup
 
-1. [nodejs](https://nodejs.org/en/) 10.15.x LTS
+1. [nodejs](https://nodejs.org/en/) 10.x.x LTS
 1. `$npm install`
 1. `$npm run build`
 1. `$npm link` _(you might need to run with sudo, if you get permission denied)_
@@ -198,7 +198,7 @@ It is responsible for injecting the required Javascript Script Tag, CSS Style Ta
 
 ### development prerequisites
 
-1. [nodejs](https://nodejs.org/en/) 10.15.x LTS
+1. [nodejs](https://nodejs.org/en/) 10.x.x LTS
 
 ### development setup
 
